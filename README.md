@@ -1,4 +1,4 @@
-# 🐍 Neon Snake Game
+# 🐍 Snake_Game
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
@@ -7,10 +7,10 @@
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
-A **modern Neon-themed Snake Game** built using **HTML, CSS, and JavaScript**.  
+A **modern Snake_Game** built using **HTML, CSS, and JavaScript**.  
 Play the classic Snake 🐍 game in a glowing neon world with **difficulty levels, pause/resume, and score tracking**.  
 
-👉 **[🎮 Play Live Demo on Vercel](https://neon-snake-game-ainul.vercel.app/)**  
+👉 **[🎮 Play Live Demo on Vercel](https://neon-snake-game-.vercel.app/)**  
 
 ---
 
@@ -22,7 +22,7 @@ Play the classic Snake 🐍 game in a glowing neon world with **difficulty level
 - 💀 **Game Over Screen** with Restart option.  
 - 📊 **Real-time Score Tracking**.  
 - 🖥️ Runs directly in your browser – No installation required.  
-- 📝 **Created with ❤️ by Ainul Haq**.  
+- 📝 **Created with ❤️ by Mohd Kaif**.  
 
 ---
 
@@ -51,6 +51,7 @@ Play the classic Snake 🐍 game in a glowing neon world with **difficulty level
 1. Clone the repo:
    ```bash
    git clone https://github.com/iamainul/Neon-Snake-Game.git
+
 
 
 
