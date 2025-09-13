@@ -50,7 +50,8 @@ Play the classic Snake 🐍 game in a glowing neon world with **difficulty level
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/iamainul/Neon-Snake-Game.git
+   git clone https://github.com/mohdkaif67/Snake_Game/tree/main
+
 
 
 
