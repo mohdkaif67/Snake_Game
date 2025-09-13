@@ -10,7 +10,7 @@
 A **modern Snake_Game** built using **HTML, CSS, and JavaScript**.  
 Play the classic Snake 🐍 game in a glowing neon world with **difficulty levels, pause/resume, and score tracking**.  
 
-👉 **[🎮 Play Live Demo on Vercel](https://neon-snake-game-.vercel.app/)**  
+👉 **[🎮 Play Live Demo on Vercel](https://snake-game-beta-swart.vercel.app/)**  
 
 ---
 
@@ -51,6 +51,7 @@ Play the classic Snake 🐍 game in a glowing neon world with **difficulty level
 1. Clone the repo:
    ```bash
    git clone https://github.com/mohdkaif67/Snake_Game/tree/main
+
 
 
 
